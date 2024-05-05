@@ -8,7 +8,6 @@ edition = "2021"
 [dependencies]
 wasm-bindgen = "0.2.92"
 
-
 # remove metadata from the generated wasm file
 [lib]
 crate-type = ["cdylib"]
